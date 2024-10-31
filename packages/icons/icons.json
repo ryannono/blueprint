@@ -4520,5 +4520,12 @@
         "tags": "currency, money",
         "group": "miscellaneous",
         "codepoint": 62342
-    }
+    },
+    {
+        "displayName": "Arrows: arc",
+        "iconName": "arrows-arc",
+        "tags": "rotate cursor, curved, arrows",
+        "group": "interface",
+        "codepoint": 62343
+      }
 ]
