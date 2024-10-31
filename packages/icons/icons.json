@@ -4527,5 +4527,19 @@
         "tags": "rotate cursor, curved, arrows",
         "group": "interface",
         "codepoint": 62343
+    },
+    {
+        "displayName": "Rotate clockwise",
+        "iconName": "rotate-clockwise",
+        "tags": "rotate, clockwise, right",
+        "group": "interface",
+        "codepoint": 62344
+    },
+    {
+        "displayName": "Rotate counter clockwise",
+        "iconName": "rotate-counter-clockwise",
+        "tags": "rotate, counter-clockwise, left",
+        "group": "interface",
+        "codepoint": 62345
     }
 ]
