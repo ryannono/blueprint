@@ -4529,15 +4529,15 @@
         "codepoint": 62343
     },
     {
-        "displayName": "Square: rotate clockwise",
-        "iconName": "square-rotate-cw",
+        "displayName": "Rotate clockwise",
+        "iconName": "rotate-cw",
         "tags": "arrow, box, object, clockwise, cw, right",
         "group": "interface",
         "codepoint": 62344
     },
     {
-        "displayName": "Square: rotate counterclockwise",
-        "iconName": "square-rotate-ccw",
+        "displayName": "Rotate counterclockwise",
+        "iconName": "rotate-ccw",
         "tags": "arrow, box, object, counter-clockwise, ccw, left",
         "group": "interface",
         "codepoint": 62345
