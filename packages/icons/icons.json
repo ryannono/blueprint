@@ -4597,5 +4597,12 @@
         "tags": "data, source, data source, sync, cloud",
         "group": "data",
         "codepoint": 62353
+    },
+    {
+        "displayName": "Join: subtract right",
+        "iconName": "subtract-right-join",
+        "tags": "circles, combine, connect, add, subtract, part, slice, intersection, venn diagram, intersect",
+        "group": "action",
+        "codepoint": 62354
     }
 ]
