@@ -124,6 +124,7 @@ export function isElementOfType<P = {}>(
     );
 }
 
-export function isReact18(): boolean {
-    return React.version.startsWith("18");
+export function isReact18OrHigher(): boolean {
+    const majorVersion = parseInt(React.version.split(".")[0], 10);
+    return majorVersion >= 18;
 }
