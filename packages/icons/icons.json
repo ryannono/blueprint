@@ -4604,5 +4604,12 @@
         "tags": "circles, combine, connect, add, subtract, part, slice, intersection, venn diagram, intersect",
         "group": "action",
         "codepoint": 62354
+    },
+    {
+        "displayName": "Run History",
+        "iconName": "run-history",
+        "tags": "run, play, history, rewind, review, re-watch",
+        "group": "action",
+        "codepoint": 62355
     }
 ]
